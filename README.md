@@ -1,7 +1,7 @@
 # Early-Parkinson-Disease-Detection-Using-Audio-Signal-Processing
 Early Parkinson Disease Detection Using Audio Signal Processing with the help of Machine Learning Algorithms such as Random Forest Classifier,  Xgb Classifier, K-nn, Naive-Bayes, Decisionn Tree Classifier
 
-# Detecting Parkinsons with ML
+# Parkinson Disease Detection Using Machine Learning
 [![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WdjG9TGtX2VeP3H1B5j9XBAOBoCvKXnL#scrollTo=012faf34)
 
 I have used the data from UC Irvine's amazing dataset repository, specifically the [Parkinsons ML database](https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/).
