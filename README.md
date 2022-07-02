@@ -29,6 +29,10 @@ Approaches are provided in the Jupyter notebook for this repo (`ParkinsonDisease
 
 You can find more info on the datasets in UCI's database. ([info for Parkinsons detection](https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.names)) ([info for UDPR](https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/telemonitoring/parkinsons_updrs.names))
 
+
+## Results
+![resultimage](https://github.com/satyajeet-rajupali/Early-Parkinson-Disease-Detection-Using-Audio-Signal-Processing/blob/main/Images/p22.jpg)
+
 ## Requirements
 
 - Python 3 (I **highly** recommend using Anaconda as this will save you a TON of time)
